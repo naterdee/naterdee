@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+## My name is Nate, also known as Nathanael.
+## I am currently a student at the University of Illinois at Urbana-Champaign
+## I'm majoring in CS, and am super excited to be working on GitHub!
 <!--
 **naterdee/naterdee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
